@@ -1,4 +1,4 @@
-= NOTE: I have renamed my account to danseaver.  I have forked this repo from the new official redmine_freshbooks available at http://github.com/danseaver/redmine_freshbooks
+= NOTE: I have renamed my account to danseaver.  I have forked this repo from the new official redmine_freshbooks available at http://github.com/danseaver/redmine_freshbooks.  This fork will *not* be kept in sync
 
 = Redmine-Freshbooks
 
