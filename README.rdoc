@@ -1,3 +1,5 @@
+= NOTE: I have renamed my account to danseaver.  I have forked this repo from the new official redmine_freshbooks available at http://github.com/danseaver/redmine_freshbooks
+
 = Redmine-Freshbooks
 
 ==Warning: This is woefully out of date.  It will not work with freshbooks in its current state
